@@ -1,0 +1,6 @@
+!vendor
+vendor/*
+!/vendor/composer
+!/vendor/autoload.php
+.idea/
+node_modules/
